@@ -11,20 +11,129 @@ Weekly Response Memos
 *   Topic: Some weeks have directed questions for you to answer in your memo. If no topic questions are assigned, you will provide your own reflection on the readings. You may also weave in discussion points from class or your small group meeting.
 *   There are no response memos during weeks 9 and 14.
 
-| WEEK # | RESPONSE MEMO TOPICS |
-| --- | --- |
-| 1 | [Week 1 (PDF)]({{< baseurl >}}/resources/mit21a_445js15_week1memo) |
-| 2 | [Week 2 (PDF)]({{< baseurl >}}/resources/mit21a_445js15_week2memo) |
-| 3 | [Week 3 (PDF)]({{< baseurl >}}/resources/mit21a_445js15_week3memo) |
-| 4 | [Week 4 (PDF)]({{< baseurl >}}/resources/mit21a_445js15_week4memo) |
-| 5 | [Week 5 (PDF)]({{< baseurl >}}/resources/mit21a_445js15_week5memo) |
-| 6 | [Week 6 (PDF)]({{< baseurl >}}/resources/mit21a_445js15_week6memo) |
-| 7 | [Week 7 (PDF)]({{< baseurl >}}/resources/mit21a_445js15_week7memo) |
-| 8 | [Week 8 (PDF)]({{< baseurl >}}/resources/mit21a_445js15_week8memo) |
-| 10 | [Week 10 (PDF)]({{< baseurl >}}/resources/mit21a_445js15_week10memo) |
-| 11 | [Week 11 (PDF)]({{< baseurl >}}/resources/mit21a_445js15_week11memo) |
-| 12 | [Week 12 (PDF)]({{< baseurl >}}/resources/mit21a_445js15_week12memo) |
-| 13 | [Week 13 (PDF)]({{< baseurl >}}/resources/mit21a_445js15_week13memo) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+RESPONSE MEMO TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+[Week 1 (PDF)]({{< baseurl >}}/resources/mit21a_445js15_week1memo)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+[Week 2 (PDF)]({{< baseurl >}}/resources/mit21a_445js15_week2memo)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+[Week 3 (PDF)]({{< baseurl >}}/resources/mit21a_445js15_week3memo)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+[Week 4 (PDF)]({{< baseurl >}}/resources/mit21a_445js15_week4memo)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+[Week 5 (PDF)]({{< baseurl >}}/resources/mit21a_445js15_week5memo)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+[Week 6 (PDF)]({{< baseurl >}}/resources/mit21a_445js15_week6memo)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+[Week 7 (PDF)]({{< baseurl >}}/resources/mit21a_445js15_week7memo)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+[Week 8 (PDF)]({{< baseurl >}}/resources/mit21a_445js15_week8memo)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+[Week 10 (PDF)]({{< baseurl >}}/resources/mit21a_445js15_week10memo)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+[Week 11 (PDF)]({{< baseurl >}}/resources/mit21a_445js15_week11memo)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+[Week 12 (PDF)]({{< baseurl >}}/resources/mit21a_445js15_week12memo)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+[Week 13 (PDF)]({{< baseurl >}}/resources/mit21a_445js15_week13memo)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Small Group Final Presentation
 ------------------------------
