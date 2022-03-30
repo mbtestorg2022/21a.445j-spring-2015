@@ -144,7 +144,7 @@ Rocha, Jose Luis. "[Strawberry Fields and Undocumented Workers Forever?](http://
 
 Nordstrom, Carolyn. "Diamonds and Fish: Going Global." Chapter 11 in _Global Outlaws: Crime, Money, and Power in the Contemporary World_. University of California Press, 2007. ISBN: 9780520250963. 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The True Cost of Shrimp: How Shrimp Industry Workers in Bangladesh and Thailand Pay the Price for Affordable Shrimp." (PDF - 2.0MB)](http://www.solidaritycenter.org/wp-content/uploads/2014/12/pubs_True_Cost_of_Shrimp.pdf) The Solidarity Center. January 2008. (Skim)
+["The True Cost of Shrimp: How Shrimp Industry Workers in Bangladesh and Thailand Pay the Price for Affordable Shrimp." (PDF - 2.0MB)](http://www.solidaritycenter.org/wp-content/uploads/2014/12/pubs_True_Cost_of_Shrimp.pdf) The Solidarity Center. January 2008. (Skim)
 
 _Recommended but not Required_
 
@@ -174,7 +174,7 @@ Migration & Border Crossings
 
 _Readings_
 
-Bhabha, Jacqueline, and Monette Zard. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Smuggled or Trafficked?" (PDF)](https://www.fmreview.org/peopletrafficking/bhabha-zard) _Forced Migration Review_ 25 (2006): 6–8.
+Bhabha, Jacqueline, and Monette Zard. ["Smuggled or Trafficked?" (PDF)](https://www.fmreview.org/peopletrafficking/bhabha-zard) _Forced Migration Review_ 25 (2006): 6–8.
 
 Anzaldúa, Gloria. "The Homeland, Aztlan / El Otro Mexico." Chapter 1 in _Borderlands / La Frontera: The New Mestiza_. 4th ed. Aunt Lute Books, 2012. ISBN: 9781879960855.
 
@@ -266,7 +266,7 @@ Beah, Ishmael. Excerpts from _A Long Way Gone: Memoirs of a Boy Soldier_. Sarah 
 
 Bolkovac, Kathryn, and Cari Lynn. Excerpts from _The Whistleblower: Sex Trafficking, Military Contractors, and One Woman's Fight for Justice_. St. Martin's Griffin, 2011. ISBN: 9780230115224. \[Preview with [Google Books](http://books.google.com/books?id=DVxo8r7F9J4C&pg=PAfrontcover)\]
 
-Kimura, Maki. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Listening to Voices: Testimonies of 'Comfort Women' of the Second World War." (PDF)](https://www.lse.ac.uk/gender/assets/documents/research/working-papers/LISTENING-TO-VOICES.pdf) London School of Economics, Gender Institute. April 2003.
+Kimura, Maki. ["Listening to Voices: Testimonies of 'Comfort Women' of the Second World War." (PDF)](https://www.lse.ac.uk/gender/assets/documents/research/working-papers/LISTENING-TO-VOICES.pdf) London School of Economics, Gender Institute. April 2003.
 
 ### Film
 
